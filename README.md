@@ -20,7 +20,7 @@ This language pack contains Spanish (Mexico) translations for Flarum (compatible
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/spanish-mexico
+composer require "flarum-lang/spanish-mexico:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
